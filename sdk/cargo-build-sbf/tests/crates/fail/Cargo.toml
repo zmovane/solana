@@ -10,7 +10,7 @@ edition = "2021"
 publish = false
 
 [dependencies]
-solana-program = { path = "../../../../program", version = "=1.18.11" }
+solana-program = { path = "../../../../program" }
 
 [lib]
 crate-type = ["cdylib"]
