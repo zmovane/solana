@@ -388,7 +388,7 @@ solana-wen-restart = { path = "wen-restart" }
 solana-zk-keygen = { path = "zk-keygen" }
 solana-zk-token-proof-program = { path = "programs/zk-token-proof" }
 solana-zk-token-sdk = { path = "zk-token-sdk" }
-solana_rbpf = "=0.8.0"
+solana_rbpf = "=0.8.5"
 spl-associated-token-account = { git = "https://github.com/zmovane/solana-program-library", branch = "fix/deps", package = "spl-associated-token-account" }
 spl-instruction-padding = { git = "https://github.com/zmovane/solana-program-library", branch = "fix/deps", package = "spl-instruction-padding" }
 spl-memo = { git = "https://github.com/zmovane/solana-program-library", branch = "fix/deps", package = "spl-memo" }
